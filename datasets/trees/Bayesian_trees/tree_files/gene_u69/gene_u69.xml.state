@@ -1,0 +1,22 @@
+<itsabeastystatewerein version='2.0' sample='20000000'>
+<statenode id='Tree.t:Gene_u69_unique'>(0:0.025076528516895735,(((3:2.47195794488753E-4,1:2.47195794488753E-4)6:4.92612255487019E-4,2:7.398080499757721E-4)7:3.8178426922679106E-5,4:7.779864768984512E-4)5:0.024298542039997283)8:0.0</statenode>
+<statenode id='gammaShape.s:Gene_u69_unique'>gammaShape.s:Gene_u69_unique[1 1] (0.1,1000.0): 0.9369944850102685 </statenode>
+<statenode id='popSize.t:Gene_u69_unique'>popSize.t:Gene_u69_unique[1 1] (0.0,Infinity): 0.006017797097739076 </statenode>
+<statenode id='kappa.s:Gene_u69_unique'>kappa.s:Gene_u69_unique[1 1] (0.0,Infinity): 5.408697535017805 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"gammaShapeScaler.s:Gene_u69_unique","p":"NaN","accept":2430,"reject":10403,"acceptFC":2427,"rejectFC":10398,"rejectIv":4637,"rejectOp":4637,"nProposals":12833,"param_mean_sum":"[0.969981428451758]","param_mean_SS":"[1.7865267929903312]","numAccepts":"[5, 2425]","numProposals":"[713, 11121]","operator_mean_runtimes":"[0.04023422159887846, 0.013845967089293164]","mean_SS":"[[0.21397379580684403], [3.809476324756685]]","weights":"[6.21248977552101E-4, 0.9993787510224479]","operators":[{"id":"AVMNOperator.Gene_u69_unique","p":0.6306886821373646,"means":"[-0.4344838698995575, 1.551075234237323, 0.026280209029473353]","covariance":"[0.9153525734396146, -0.017092604988051388, -7.79472013763133E-4, 0.13879981946358919, 2.7692135820334525E-4, 2.4860887946259905E-5]","accept":6,"reject":2385,"acceptFC":6,"rejectFC":2379,"rejectIv":1223,"rejectOp":1223},{"id":"gammaShapeScalerX.s:Gene_u69_unique","p":2.804694060093048,"accept":2425,"reject":9195,"acceptFC":2422,"rejectFC":9194,"rejectIv":4025,"rejectOp":4025}]},
+{"id":"CoalescentConstantBICEPSEpochTop.t:Gene_u69_unique","p":0.361010365200836,"accept":129358,"reject":383344,"acceptFC":129215,"rejectFC":383167,"rejectIv":256126,"rejectOp":256126},
+{"id":"CoalescentConstantBICEPSEpochAll.t:Gene_u69_unique","p":0.3955520313835576,"accept":118884,"reject":392822,"acceptFC":118730,"rejectFC":392596,"rejectIv":255856,"rejectOp":255856},
+{"id":"CoalescentConstantBICEPSTreeFlex.t:Gene_u69_unique","p":0.28641809805248186,"accept":218603,"reject":293191,"acceptFC":218279,"rejectFC":293172,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantTreeRootScaler.t:Gene_u69_unique","p":0.3859695146085844,"accept":234827,"reject":532707,"acceptFC":234451,"rejectFC":532572,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantUniformOperator.t:Gene_u69_unique","p":2.9996141577290545,"accept":2383765,"reject":5302278,"acceptFC":2378725,"rejectFC":5302066,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantSubtreeSlide.t:Gene_u69_unique","p":1.1169924379407912,"accept":180,"reject":3840623,"acceptFC":179,"rejectFC":3837971,"rejectIv":1920153,"rejectOp":1920153},
+{"id":"CoalescentConstantNarrow.t:Gene_u69_unique","p":"NaN","accept":2067119,"reject":1773470,"acceptFC":2065785,"rejectFC":1772207,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantWide.t:Gene_u69_unique","p":"NaN","accept":136807,"reject":630620,"acceptFC":136716,"rejectFC":630188,"rejectIv":438685,"rejectOp":438685},
+{"id":"CoalescentConstantWilsonBalding.t:Gene_u69_unique","p":"NaN","accept":88344,"reject":679238,"acceptFC":88291,"rejectFC":678800,"rejectIv":455496,"rejectOp":455496},
+{"id":"PopSizeScaler.t:Gene_u69_unique","p":1.1926069580801224,"accept":232789,"reject":535290,"acceptFC":232508,"rejectFC":535042,"rejectIv":0,"rejectOp":0},
+{"id":"KappaScaler.s:Gene_u69_unique","p":"NaN","accept":4236,"reject":8673,"acceptFC":4234,"rejectFC":8670,"rejectIv":611,"rejectOp":611,"nProposals":12909,"param_mean_sum":"[5.220139347726666]","param_mean_SS":"[30.842352366222002]","numAccepts":"[1, 4235]","numProposals":"[672, 11238]","operator_mean_runtimes":"[0.050058035714286436, 0.017534614700128022]","mean_SS":"[[3.517071056671276], [9.915791404390324]]","weights":"[4.903763356944392E-4, 0.9995096236643055]","operators":[{"id":"AVMNOperator.Gene_u69_unique","p":0.6306886821373646,"means":"[-0.4344838698995575, 1.551075234237323, 0.026280209029473353]","covariance":"[0.9153525734396146, -0.017092604988051388, -7.79472013763133E-4, 0.13879981946358919, 2.7692135820334525E-4, 2.4860887946259905E-5]","accept":6,"reject":2385,"acceptFC":6,"rejectFC":2379,"rejectIv":1223,"rejectOp":1223},{"id":"KappaScalerX.s:Gene_u69_unique","p":0.7359440633504974,"accept":4235,"reject":7496,"acceptFC":4233,"rejectFC":7495,"rejectIv":0,"rejectOp":0}]}
+]}
+-->
