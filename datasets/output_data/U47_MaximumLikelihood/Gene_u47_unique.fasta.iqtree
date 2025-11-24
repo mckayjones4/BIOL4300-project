@@ -1,0 +1,179 @@
+IQ-TREE 3.0.1 built May  5 2025
+
+Input file name: Gene_u47_unique.fasta
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 361195
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 13 sequences with 207 nucleotide sites
+Number of constant sites: 178 (= 85.9903% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 178 (= 85.9903% of all sites)
+Number of parsimony informative sites: 15
+Number of distinct site patterns: 29
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: HKY+F
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 5.1826
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 5.1826
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3003
+  pi(C) = 0.2616
+  pi(G) = 0.136
+  pi(T) = 0.3021
+
+Rate matrix Q:
+
+  A   -0.7314    0.1508    0.4064    0.1742
+  C    0.1731    -1.154   0.07842    0.9028
+  G    0.8972    0.1508    -1.222    0.1742
+  T    0.1731    0.7817   0.07842    -1.033
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -458.3014 (s.e. 27.9963)
+Unconstrained log-likelihood (without tree): -413.4005
+Number of free parameters (#branches + #model parameters): 27
+Akaike information criterion (AIC) score: 970.6027
+Corrected Akaike information criterion (AICc) score: 979.0496
+Bayesian information criterion (BIC) score: 1060.5861
+
+Total tree length (sum of branch lengths): 0.1549
+Sum of internal branch lengths: 0.0775 (50.0268% of tree length)
+
+WARNING: 8 near-zero internal branches (<0.0048) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'HHV6_U47_556M6glycoprotei_FJ610438.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++------HHV6_U47_556M6glycoprotei_FJ610438.1
+|
+|        +**HHV6_U47_538M6glycoprotei_FJ610436.1
+|     +**| (19)
+|     |  |  +--HHV6_U47_458M6Giglycoprotei_FJ610423.1
+|     |  +**| (65)
+|     |     +--HHV6_U47_39M18Giglycoprotei_FJ610401.1
+|  +**| (48)
+|  |  |     +--HHV6_U47_503M6glycoprotei_FJ610432.1
+|  |  |  +**| (45)
+|  |  |  |  +--HHV6_U47_206M18glycoprotei_FJ610416.1
+|  |  +**| (45)
+|  |     |  +--HHV6_U47_174M18glycoprotei_FJ610415.1
+|  |     +**| (56)
+|  |        +------HHV6_U47_168M18glycoprotei_FJ610413.1
++**| (54)
+|  |  +------HHV6_U47_219M18glycoprotei_FJ610417.1
+|  +**| (58)
+|     |          +---------HHV6A_outgroup_KP257584.1
+|     +----------| (85)
+|                |                                            +**HHV6_U47_540M6glycoprotei_FJ610437.1
+|                +--------------------------------------------| (100)
+|                                                             +--HHV6_U47_467M6Giglycoprotei_FJ610426.1
+|
++--HHV6_U47_151M18glycoprotei_FJ610411.1
+
+Tree in newick format:
+
+(HHV6_U47_556M6glycoprotei_FJ610438.1:0.0097261998,(((HHV6_U47_538M6glycoprotei_FJ610436.1:0.0000010000,(HHV6_U47_458M6Giglycoprotei_FJ610423.1:0.0048469376,HHV6_U47_39M18Giglycoprotei_FJ610401.1:0.0048469376)65:0.0000010000)19:0.0000010000,((HHV6_U47_503M6glycoprotei_FJ610432.1:0.0048512171,HHV6_U47_206M18glycoprotei_FJ610416.1:0.0048512218)45:0.0000010000,(HHV6_U47_174M18glycoprotei_FJ610415.1:0.0048512135,HHV6_U47_168M18glycoprotei_FJ610413.1:0.0097405376)56:0.0000010000)45:0.0000010000)48:0.0000010000,(HHV6_U47_219M18glycoprotei_FJ610417.1:0.0097289907,(HHV6A_outgroup_KP257584.1:0.0142860893,(HHV6_U47_540M6glycoprotei_FJ610437.1:0.0000010000,HHV6_U47_467M6Giglycoprotei_FJ610426.1:0.0048429375)100:0.0622515484)85:0.0152491264)58:0.0000010000)54:0.0000010000,HHV6_U47_151M18glycoprotei_FJ610411.1:0.0048512218);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -458.303747
+Robinson-Foulds distance between ML tree and consensus tree: 2
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++------HHV6_U47_556M6glycoprotei_FJ610438.1
+|
+|     +--HHV6_U47_538M6glycoprotei_FJ610436.1
+|  +--| (48)
+|  |  |        +--HHV6_U47_503M6glycoprotei_FJ610432.1
+|  |  |     +--| (45)
+|  |  |     |  +--HHV6_U47_206M18glycoprotei_FJ610416.1
+|  |  |  +--| (45)
+|  |  |  |  |  +--HHV6_U47_174M18glycoprotei_FJ610415.1
+|  |  |  |  +--| (56)
+|  |  |  |     +------HHV6_U47_168M18glycoprotei_FJ610413.1
+|  |  +--| (25)
+|  |     |  +--HHV6_U47_458M6Giglycoprotei_FJ610423.1
+|  |     +--| (65)
+|  |        +--HHV6_U47_39M18Giglycoprotei_FJ610401.1
++--| (54)
+|  |  +------HHV6_U47_219M18glycoprotei_FJ610417.1
+|  +--| (58)
+|     |          +---------HHV6A_outgroup_KP257584.1
+|     +----------| (85)
+|                |                                            +--HHV6_U47_540M6glycoprotei_FJ610437.1
+|                +--------------------------------------------| (100)
+|                                                             +--HHV6_U47_467M6Giglycoprotei_FJ610426.1
+|
++--HHV6_U47_151M18glycoprotei_FJ610411.1
+
+
+Consensus tree in newick format: 
+
+(HHV6_U47_556M6glycoprotei_FJ610438.1:0.0097261998,((HHV6_U47_538M6glycoprotei_FJ610436.1:0.0000021831,(((HHV6_U47_503M6glycoprotei_FJ610432.1:0.0048512234,HHV6_U47_206M18glycoprotei_FJ610416.1:0.0048512234)45:0.0000021831,(HHV6_U47_174M18glycoprotei_FJ610415.1:0.0048510931,HHV6_U47_168M18glycoprotei_FJ610413.1:0.0097404852)56:0.0000021831)45:0.0000021831,(HHV6_U47_458M6Giglycoprotei_FJ610423.1:0.0048469376,HHV6_U47_39M18Giglycoprotei_FJ610401.1:0.0048469376)65:0.0000021831)25:0.0000021831)48:0.0000021831,(HHV6_U47_219M18glycoprotei_FJ610417.1:0.0097285672,(HHV6A_outgroup_KP257584.1:0.0142858751,(HHV6_U47_540M6glycoprotei_FJ610437.1:0.0000021831,HHV6_U47_467M6Giglycoprotei_FJ610426.1:0.0048429271)100:0.0622514662)85:0.0152484631)58:0.0000021831)54:0.0000021831,HHV6_U47_151M18glycoprotei_FJ610411.1:0.0048512119);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t Gene_u47_unique.fasta.treefile -m "HKY{5.18257}+F{0.30026,0.261613,0.136009,0.302118}" --length 207
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s Gene_u47_unique.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s Gene_u47_unique.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Nov 24 15:11:57 2025
+Total CPU time used: 14.984375 seconds (0h:0m:14s)
+Total wall-clock time used: 20.7841248 seconds (0h:0m:20s)
+
