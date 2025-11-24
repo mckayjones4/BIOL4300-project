@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.base.evolution.alignment:beast.pkgmgmt:beast.base.core:beast.base.inference:beast.base.evolution.tree.coalescent:beast.pkgmgmt:beast.base.core:beast.base.inference.util:beast.evolution.nuc:beast.base.evolution.operator:beast.base.inference.operator:beast.base.evolution.sitemodel:beast.base.evolution.substitutionmodel:beast.base.evolution.likelihood" required="BEAST.base v2.7.8" version="2.7">
+        
+
+    <data
+id="Gene_u47_unique"
+spec="Alignment"
+name="alignment">
+                            
+        <sequence id="seq_HHV6A_outgroup_KP257584.1" spec="Sequence" taxon="HHV6A_outgroup_KP257584.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCGTTCACGTCAGAAATCTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTTAAACAGTCGCCAAAACCTATAAATGTTACTACTTCCTTTGGACGAACC"/>
+                            
+        <sequence id="seq_HHV6_U47_151M18glycoprotei_FJ610411.1" spec="Sequence" taxon="HHV6_U47_151M18glycoprotei_FJ610411.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCCGACACGGTCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_168M18glycoprotei_FJ610413.1" spec="Sequence" taxon="HHV6_U47_168M18glycoprotei_FJ610413.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGTTCTATAACACAACATCATGCGTTCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_174M18glycoprotei_FJ610415.1" spec="Sequence" taxon="HHV6_U47_174M18glycoprotei_FJ610415.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGCCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_206M18glycoprotei_FJ610416.1" spec="Sequence" taxon="HHV6_U47_206M18glycoprotei_FJ610416.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCCTCCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_219M18glycoprotei_FJ610417.1" spec="Sequence" taxon="HHV6_U47_219M18glycoprotei_FJ610417.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTCCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTCGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_39M18Giglycoprotei_FJ610401.1" spec="Sequence" taxon="HHV6_U47_39M18Giglycoprotei_FJ610401.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCCTTCGCGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_458M6Giglycoprotei_FJ610423.1" spec="Sequence" taxon="HHV6_U47_458M6Giglycoprotei_FJ610423.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCGGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_467M6Giglycoprotei_FJ610426.1" spec="Sequence" taxon="HHV6_U47_467M6Giglycoprotei_FJ610426.1" totalcount="4" value="GACGAATCCTTGCAGATGGCAATCAGTAAATTTTCCAACTCGAATCTGACACGGTCATTGACTCCGTTCACTCCTGAAATCTTCTTTAATTACACCTGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCATCCGTTCAAATGATCAATATTTCGAACATTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_503M6glycoprotei_FJ610432.1" spec="Sequence" taxon="HHV6_U47_503M6glycoprotei_FJ610432.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAACCTGACACGGTCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_538M6glycoprotei_FJ610436.1" spec="Sequence" taxon="HHV6_U47_538M6glycoprotei_FJ610436.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGAATCTGACACGGTCATTGACTTCCTTCACGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_540M6glycoprotei_FJ610437.1" spec="Sequence" taxon="HHV6_U47_540M6glycoprotei_FJ610437.1" totalcount="4" value="GACGAATCCTTGCAGATGGCAATCAGTAAATTTTCCAACTCGAATCTGACACGGTCATTGACTCCGTTCACTCCTGAAATCTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCATCCGTTCAAATGATCAATATTTCGAACATTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                            
+        <sequence id="seq_HHV6_U47_556M6glycoprotei_FJ610438.1" spec="Sequence" taxon="HHV6_U47_556M6glycoprotei_FJ610438.1" totalcount="4" value="GAAGAATCCTTGCGGATGGCAATGAGCAAATTTTCCAACTCGGATCTGACACGGTCATTGACTTCCTTCATGTCAAAAAACTTCTTTAATTACACCAGCTTTGTTTACTTCTTGCTCTATAACACAACATCATGCGTCCCTTCAAATGATCAATATTTCAAACAGTCGCCAAAACCTATAAATGTTACCACTTCCTTTGGACGAGCC"/>
+                        
+    </data>
+        
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+    <map name="Uniform" >beast.base.inference.distribution.Uniform</map>
+
+    
+
+    <map name="Exponential" >beast.base.inference.distribution.Exponential</map>
+
+    
+
+    <map name="LogNormal" >beast.base.inference.distribution.LogNormalDistributionModel</map>
+
+    
+
+    <map name="Normal" >beast.base.inference.distribution.Normal</map>
+
+    
+
+    <map name="Beta" >beast.base.inference.distribution.Beta</map>
+
+    
+
+    <map name="Gamma" >beast.base.inference.distribution.Gamma</map>
+
+    
+
+    <map name="LaplaceDistribution" >beast.base.inference.distribution.LaplaceDistribution</map>
+
+    
+
+    <map name="prior" >beast.base.inference.distribution.Prior</map>
+
+    
+
+    <map name="InverseGamma" >beast.base.inference.distribution.InverseGamma</map>
+
+    
+
+    <map name="OneOnX" >beast.base.inference.distribution.OneOnX</map>
+
+    
+
+    <run id="mcmc" spec="MCMC" chainLength="10000000">
+            
+        <state id="state" spec="State" storeEvery="5000">
+                    
+            <tree id="Tree.t:Gene_u47_unique" spec="beast.base.evolution.tree.Tree" name="stateNode">
+                            
+                <taxonset id="TaxonSet.Gene_u47_unique" spec="TaxonSet">
+                                    
+                    <alignment idref="Gene_u47_unique"/>
+                                
+                </taxonset>
+                        
+            </tree>
+                    
+            <parameter id="kappa.s:Gene_u47_unique" spec="parameter.RealParameter" lower="0.0" name="stateNode">2.0</parameter>
+                    
+            <parameter id="popSize.t:Gene_u47_unique" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.3</parameter>
+                
+        </state>
+            
+        <init id="RandomTree.t:Gene_u47_unique" spec="RandomTree" estimate="false" initial="@Tree.t:Gene_u47_unique" taxa="@Gene_u47_unique">
+                    
+            <populationModel id="ConstantPopulation0.t:Gene_u47_unique" spec="ConstantPopulation">
+                            
+                <parameter id="randomPopSize.t:Gene_u47_unique" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+                        
+            </populationModel>
+                
+        </init>
+            
+        <distribution id="posterior" spec="CompoundDistribution">
+                    
+            <distribution id="prior" spec="CompoundDistribution">
+                            
+                <distribution id="CoalescentConstant.t:Gene_u47_unique" spec="Coalescent">
+                                    
+                    <populationModel id="ConstantPopulation.t:Gene_u47_unique" spec="ConstantPopulation" popSize="@popSize.t:Gene_u47_unique"/>
+                                    
+                    <treeIntervals id="TreeIntervals.t:Gene_u47_unique" spec="beast.base.evolution.tree.TreeIntervals" tree="@Tree.t:Gene_u47_unique"/>
+                                
+                </distribution>
+                            
+                <prior id="KappaPrior.s:Gene_u47_unique" name="distribution" x="@kappa.s:Gene_u47_unique">
+                                    
+                    <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                                            
+                        <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                                            
+                        <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" name="S">1.25</parameter>
+                                        
+                    </LogNormal>
+                                
+                </prior>
+                            
+                <prior id="PopSizePrior.t:Gene_u47_unique" name="distribution" x="@popSize.t:Gene_u47_unique">
+                                    
+                    <OneOnX id="OneOnX.1" name="distr"/>
+                                
+                </prior>
+                        
+            </distribution>
+                    
+            <distribution id="likelihood" spec="CompoundDistribution" useThreads="true">
+                            
+                <distribution id="treeLikelihood.Gene_u47_unique" spec="ThreadedTreeLikelihood" data="@Gene_u47_unique" tree="@Tree.t:Gene_u47_unique">
+                                    
+                    <siteModel id="SiteModel.s:Gene_u47_unique" spec="SiteModel">
+                                            
+                        <parameter id="mutationRate.s:Gene_u47_unique" spec="parameter.RealParameter" estimate="false" lower="0.0" name="mutationRate">1.0</parameter>
+                                            
+                        <parameter id="gammaShape.s:Gene_u47_unique" spec="parameter.RealParameter" estimate="false" lower="0.1" name="shape">1.0</parameter>
+                                            
+                        <parameter id="proportionInvariant.s:Gene_u47_unique" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                                            
+                        <substModel id="hky.s:Gene_u47_unique" spec="HKY" kappa="@kappa.s:Gene_u47_unique">
+                                                    
+                            <frequencies id="empiricalFreqs.s:Gene_u47_unique" spec="Frequencies" data="@Gene_u47_unique"/>
+                                                
+                        </substModel>
+                                        
+                    </siteModel>
+                                    
+                    <branchRateModel id="StrictClock.c:Gene_u47_unique" spec="beast.base.evolution.branchratemodel.StrictClockModel">
+                                            
+                        <parameter id="clockRate.c:Gene_u47_unique" spec="parameter.RealParameter" estimate="false" lower="0.0" name="clock.rate">1.0</parameter>
+                                        
+                    </branchRateModel>
+                                
+                </distribution>
+                        
+            </distribution>
+                
+        </distribution>
+            
+        <operator id="KappaScaler.s:Gene_u47_unique" spec="AdaptableOperatorSampler" weight="0.05">
+                    
+            <parameter idref="kappa.s:Gene_u47_unique"/>
+                    
+            <operator id="AVMNOperator.Gene_u47_unique" spec="kernel.AdaptableVarianceMultivariateNormalOperator" allowNonsense="true" beta="0.05" burnin="400" initial="800" weight="0.1">
+                            
+                <transformations id="AVMNSumTransform.Gene_u47_unique" spec="operator.kernel.Transform$LogConstrainedSumTransform"/>
+                            
+                <transformations id="AVMNLogTransform.Gene_u47_unique" spec="operator.kernel.Transform$LogTransform">
+                                    
+                    <f idref="kappa.s:Gene_u47_unique"/>
+                                
+                </transformations>
+                            
+                <transformations id="AVMNNoTransform.Gene_u47_unique" spec="operator.kernel.Transform$NoTransform">
+                                    
+                    <f idref="Tree.t:Gene_u47_unique"/>
+                                
+                </transformations>
+                        
+            </operator>
+                    
+            <operator id="KappaScalerX.s:Gene_u47_unique" spec="kernel.BactrianScaleOperator" parameter="@kappa.s:Gene_u47_unique" scaleFactor="0.1" upper="10.0" weight="0.1"/>
+                
+        </operator>
+            
+        <operator id="CoalescentConstantBICEPSEpochTop.t:Gene_u47_unique" spec="EpochFlexOperator" scaleFactor="0.1" tree="@Tree.t:Gene_u47_unique" weight="2.0"/>
+            
+        <operator id="CoalescentConstantBICEPSEpochAll.t:Gene_u47_unique" spec="EpochFlexOperator" fromOldestTipOnly="false" scaleFactor="0.1" tree="@Tree.t:Gene_u47_unique" weight="2.0"/>
+            
+        <operator id="CoalescentConstantBICEPSTreeFlex.t:Gene_u47_unique" spec="TreeStretchOperator" scaleFactor="0.01" tree="@Tree.t:Gene_u47_unique" weight="2.0"/>
+            
+        <operator id="CoalescentConstantTreeRootScaler.t:Gene_u47_unique" spec="kernel.BactrianScaleOperator" rootOnly="true" scaleFactor="0.1" tree="@Tree.t:Gene_u47_unique" upper="10.0" weight="3.0"/>
+            
+        <operator id="CoalescentConstantUniformOperator.t:Gene_u47_unique" spec="kernel.BactrianNodeOperator" tree="@Tree.t:Gene_u47_unique" weight="30.0"/>
+            
+        <operator id="CoalescentConstantSubtreeSlide.t:Gene_u47_unique" spec="kernel.BactrianSubtreeSlide" tree="@Tree.t:Gene_u47_unique" weight="15.0"/>
+            
+        <operator id="CoalescentConstantNarrow.t:Gene_u47_unique" spec="Exchange" tree="@Tree.t:Gene_u47_unique" weight="15.0"/>
+            
+        <operator id="CoalescentConstantWide.t:Gene_u47_unique" spec="Exchange" isNarrow="false" tree="@Tree.t:Gene_u47_unique" weight="3.0"/>
+            
+        <operator id="CoalescentConstantWilsonBalding.t:Gene_u47_unique" spec="WilsonBalding" tree="@Tree.t:Gene_u47_unique" weight="3.0"/>
+            
+        <operator id="PopSizeScaler.t:Gene_u47_unique" spec="kernel.BactrianScaleOperator" parameter="@popSize.t:Gene_u47_unique" upper="10.0" weight="3.0"/>
+            
+        <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="5000" model="@posterior" sanitiseHeaders="true" sort="smart">
+                    
+            <log idref="posterior"/>
+                    
+            <log idref="likelihood"/>
+                    
+            <log idref="prior"/>
+                    
+            <log idref="treeLikelihood.Gene_u47_unique"/>
+                    
+            <log id="TreeHeight.t:Gene_u47_unique" spec="beast.base.evolution.tree.TreeStatLogger" tree="@Tree.t:Gene_u47_unique"/>
+                    
+            <log idref="kappa.s:Gene_u47_unique"/>
+                    
+            <log idref="popSize.t:Gene_u47_unique"/>
+                    
+            <log idref="CoalescentConstant.t:Gene_u47_unique"/>
+                
+        </logger>
+            
+        <logger id="screenlog" spec="Logger" logEvery="1000">
+                    
+            <log idref="posterior"/>
+                    
+            <log idref="likelihood"/>
+                    
+            <log idref="prior"/>
+                
+        </logger>
+            
+        <logger id="treelog.t:Gene_u47_unique" spec="Logger" fileName="$(filebase)-$(tree).trees" logEvery="1000" mode="tree">
+                    
+            <log id="TreeWithMetaDataLogger.t:Gene_u47_unique" spec="beast.base.evolution.TreeWithMetaDataLogger" tree="@Tree.t:Gene_u47_unique"/>
+                
+        </logger>
+            
+        <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+        
+    </run>
+
+    
+
+</beast>
