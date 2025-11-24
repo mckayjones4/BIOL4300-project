@@ -1,0 +1,20 @@
+<itsabeastystatewerein version='2.0' sample='10000000'>
+<statenode id='Tree.t:Gene_u69_unique'>(0:0.028339714191317537,(((2:0.0014101677478997343,5:0.0014101677478997343)6:2.064638625947587E-4,1:0.001616631610494493)8:6.129187306039932E-4,(4:0.0012543563247761444,3:0.0012543563247761444)7:9.751940163223417E-4)9:0.02611016385021905)10:0.0</statenode>
+<statenode id='kappa.s:Gene_u69_unique'>kappa.s:Gene_u69_unique[1 1] (0.0,Infinity): 8.755193134953583 </statenode>
+<statenode id='popSize.t:Gene_u69_unique'>popSize.t:Gene_u69_unique[1 1] (0.0,Infinity): 0.009822503311699725 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"KappaScaler.s:Gene_u69_unique","p":"NaN","accept":1954,"reject":4551,"acceptFC":1946,"rejectFC":4546,"rejectIv":412,"rejectOp":412,"nProposals":6505,"param_mean_sum":"[5.55752678452284]","param_mean_SS":"[34.726947285842876]","numAccepts":"[0, 1954]","numProposals":"[355, 5151]","operator_mean_runtimes":"[0.037583098591549145, 0.015545913414871248]","mean_SS":"[[0.0], [10.891119496380103]]","weights":"[0.0, 1.0]","operators":[{"id":"AVMNOperator.Gene_u69_unique","p":0.5108675887657679,"means":"[1.544198894803954, 0.024132140459016193]","covariance":"[0.2056338468439599, 0.001480067727844727, 4.059196618682589E-5]","accept":0,"reject":851,"acceptFC":0,"rejectFC":848,"rejectIv":412,"rejectOp":412},{"id":"KappaScalerX.s:Gene_u69_unique","p":0.7253732389226808,"accept":1954,"reject":3700,"acceptFC":1946,"rejectFC":3698,"rejectIv":0,"rejectOp":0}]},
+{"id":"CoalescentConstantBICEPSEpochTop.t:Gene_u69_unique","p":0.46899877955115243,"accept":71946,"reject":185059,"acceptFC":71765,"rejectFC":184845,"rejectIv":103118,"rejectOp":103118},
+{"id":"CoalescentConstantBICEPSEpochAll.t:Gene_u69_unique","p":0.45763276595375557,"accept":73912,"reject":183155,"acceptFC":73746,"rejectFC":183003,"rejectIv":102699,"rejectOp":102699},
+{"id":"CoalescentConstantBICEPSTreeFlex.t:Gene_u69_unique","p":0.26048986299603255,"accept":111668,"reject":144632,"acceptFC":111349,"rejectFC":144606,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantTreeRootScaler.t:Gene_u69_unique","p":0.35953811819041415,"accept":119363,"reject":265596,"acceptFC":118979,"rejectFC":265437,"rejectIv":27,"rejectOp":27},
+{"id":"CoalescentConstantUniformOperator.t:Gene_u69_unique","p":3.095106670329652,"accept":1195736,"reject":2644348,"acceptFC":1190722,"rejectFC":2644115,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantSubtreeSlide.t:Gene_u69_unique","p":1.048217281766976,"accept":89,"reject":1921656,"acceptFC":88,"rejectFC":1919064,"rejectIv":961309,"rejectOp":961309},
+{"id":"CoalescentConstantNarrow.t:Gene_u69_unique","p":"NaN","accept":1132166,"reject":791242,"acceptFC":1130641,"rejectFC":790141,"rejectIv":0,"rejectOp":0},
+{"id":"CoalescentConstantWide.t:Gene_u69_unique","p":"NaN","accept":77045,"reject":307158,"acceptFC":76934,"rejectFC":306756,"rejectIv":213951,"rejectOp":213951},
+{"id":"CoalescentConstantWilsonBalding.t:Gene_u69_unique","p":"NaN","accept":60470,"reject":323549,"acceptFC":60379,"rejectFC":323150,"rejectIv":196658,"rejectOp":196658},
+{"id":"PopSizeScaler.t:Gene_u69_unique","p":1.0616459529761775,"accept":116262,"reject":268444,"acceptFC":116030,"rejectFC":268128,"rejectIv":0,"rejectOp":0}
+]}
+-->
