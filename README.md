@@ -1,5 +1,3 @@
-# BIOL4300 Project: Mapping the Phylogeny of Various Genes within Human Herpesvirus 6B
------
-This project delves into the principles and methodologies of phylogenetics, equipping
-students with the necessary skills to explore evolutionary relationships among organisms and
-genes.
+# BIOL4300 Project: Phylogenetics of Human Herpesvirus 6B
+
+Scripts and data necessary to complete gene-specific analysis of Human Herpesvirus 6B (HHV-6B).
