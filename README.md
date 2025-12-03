@@ -12,8 +12,8 @@ Scripts and data necessary to complete gene-specific analysis of Human Herpesvir
 1. Get raw FASTA gene-specific data from Genbank.
 2. Get whole genome data from GenBank.
 3. Extract specific genes from whole genome data, add gene sequences to original gene FASTA files.
-4. Get alignments by input gene FASTA files into MAFFT version 7 (`https://mafft.cbrc.jp/alignment/software/`)
-5. Trimming Alignments
+4. Get alignments by inputting gene FASTA files into MAFFT version 7 (`https://mafft.cbrc.jp/alignment/software/`)
+5. Trim Alignments
 7. Trees:
    - ML trees
    - Bayesian trees in BEAST
