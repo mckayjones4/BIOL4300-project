@@ -1,0 +1,43 @@
+"TaxaName","Accession","CollectionDate","GeoLocation","IsolationSource","Host","LengthBP","Protein","GCpercent"
+"HHV6_U90__MN242397.1","MN242397.1","Jan-2019","Russia:Moscow","patient's whole blood","Homo sapiens","146925","QGQ58028.1",10.2088167053364
+"HHV6_U90__MW049323.1","MW049323.1",NA,"Greece",NA,"Homo sapiens; female","149761","QOI15708.1",37.5870069605568
+"HHV6_U90__MW536483.1","MW536483.1",NA,"Zaire",NA,"Homo sapiens","162121","QRY06488.1",38.0510440835267
+"HHV6_U90_1306ge_PV980270.1","PV980270.1","2020","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07940.1",40.1392111368909
+"HHV6_U90_1395ge_PV980273.1","PV980273.1","2020","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07943.1",39.907192575406
+"HHV6_U90_1422ge_PV980274.1","PV980274.1","2020","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07944.1",39.907192575406
+"HHV6_U90_1437ge_PV980230.1","PV980230.1","2020","Russia:Nizhny Novgorod","leucocytes isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07900.1",40.1392111368909
+"HHV6_U90_1492ge_PV980280.1","PV980280.1","2021","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07950.1",40.6032482598608
+"HHV6_U90_1495ge_PV980281.1","PV980281.1","2021","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07951.1",40.1392111368909
+"HHV6_U90_1708ge_PV980299.1","PV980299.1","2021","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07969.1",40.3712296983759
+"HHV6_U90_1716ge_PV980285.1","PV980285.1","2021","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07955.1",39.907192575406
+"HHV6_U90_1725ge_PV980287.1","PV980287.1","2021","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07957.1",39.907192575406
+"HHV6_U90_1746ge_PV980292.1","PV980292.1","2021","Russia:Nizhny Novgorod","saliva isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07962.1",39.907192575406
+"HHV6_U90_1904ge_PV980304.1","PV980304.1","2022","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07974.1",40.3712296983759
+"HHV6_U90_1918ge_PV980305.1","PV980305.1","2022","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07975.1",40.1392111368909
+"HHV6_U90_1928ge_PV980306.1","PV980306.1","2022","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07976.1",39.907192575406
+"HHV6_U90_1939ge_PV980307.1","PV980307.1","2022","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07977.1",40.1392111368909
+"HHV6_U90_1941ge_PV980308.1","PV980308.1","2022","Russia:Nizhny Novgorod","leucocytes isolated from HIV infected
+                     carrier","Homo sapiens","431","XYI07978.1",40.3712296983759
+"HHV6_U90_2086ge_PV980259.1","PV980259.1","2023","Russia:Nizhny Novgorod","leucocytes isolated from conditionally
+                     healthy carrier","Homo sapiens","431","XYI07929.1",40.3712296983759
+"HHV6_U90_HHV6i_PP921958.1","PP921958.1","2020","Russia: Nizhny Novgorod","leucocytes","Homo sapiens","431","XCB09267.1",40.1392111368909
+"HHV6_U90_HHV6i_PP921972.1","PP921972.1","2020","Russia: Nizhny Novgorod","leucocytes","Homo sapiens","431","XCB09281.1",40.1392111368909
+"HHV6_U90_HHV6i_PP921985.1","PP921985.1","2020","Russia: Nizhny Novgorod","leucocytes","Homo sapiens","431","XCB09294.1",39.907192575406
+"HHV6_U90_HHV6i_PP922036.1","PP922036.1","2023","Russia: Nizhny Novgorod","leucocytes","Homo sapiens","431","XCB09345.1",39.907192575406
+"HHV6_U90_HHV6i_PP922043.1","PP922043.1","2020","Russia: Nizhny Novgorod","saliva","Homo sapiens","431","XCB09352.1",40.1392111368909
+"HHV6_U90_HHV6i_PP922083.1","PP922083.1","2020","Russia: Nizhny Novgorod","saliva","Homo sapiens","431","XCB09392.1",40.1392111368909
+"HHV6A_outgroup_KP257584.1","KP257584.1","1987","Gambia",NA,"Homo sapiens","156714","AJA36217.1",37.5870069605568
