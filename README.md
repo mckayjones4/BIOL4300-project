@@ -15,7 +15,7 @@ Scripts and data necessary to complete gene-specific analysis of Human Herpesvir
 4. Get alignments by inputting gene FASTA files into MAFFT version 7 (`https://mafft.cbrc.jp/alignment/software/`)
 5. Trim Alignments (`datasets/code/05.trim.R`).
 6. Construct Trees:
-   - ML trees (IQ-TREE)
-   - Bayesian trees (BEAST)
+   - Maximum Likelihood trees (IQ-TREE v3.0.1)
+   - Bayesian trees (BEAST v2.7.7)
    - tree files are output to `./trees`
-7. Tree visualization (R [`datasets/code/07.plot_Bayesian.R`, `datasets/code/07.plot_ML.R`] and FigTree)
+7. Tree visualization (R [`datasets/code/07.plot_Bayesian.R`, `datasets/code/07.plot_ML.R`] and FigTree v1.4.4 (`https://tree.bio.ed.ac.uk/software/figtree/`)
