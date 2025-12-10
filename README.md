@@ -4,7 +4,7 @@ Scripts and data necessary to complete gene-specific analysis of Human Herpesvir
 
 ## Folder organization
 1. code: All scripts used (all R scripts ran in R version 4.5.1, all python scripts ran in Python 3.11.9)
-2. input_data: All aligned, trimmed seqeunce data input into IQ-TREE v. 3.0.1 and BEAST v. 2.7.7
+2. input_data: All aligned, trimmed seqeunce data input into IQ-TREE v3.0.1 (`https://iqtree.github.io/`) and BEAST v2.7.7 (`https://www.beast2.org/`)
 3. output_data: Raw data from IQ-TREE and BEAST
 4. trees: Final trees visualizations (in pdf files) and tree files (.treefile from IQ-TREE and .tree from BEAST)
 
