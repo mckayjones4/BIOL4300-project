@@ -1,5 +1,5 @@
 ############################################################
-# HHV-6B U39 Metadata Extraction for Heatmaps
+# HHV-6B U39 Metadata Extraction for Trait Analysis
 # ----------------------------------------------------------
 #   This script reads a FASTA file of HHV-6B U39 sequences,
 #   extracts metadata from GenBank records (collection date,
@@ -91,3 +91,4 @@ meta_table <- merge(meta_table, gc_df, by = "TaxaName")
 
 # Step 6: Save metadata table to CSV
 write.csv(meta_table, "genbank_u39_metadata.csv", row.names = FALSE) # change name for each gene
+
